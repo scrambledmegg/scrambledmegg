@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @scrambledmegg aka Megan
+- 👋 Megan, aka @scrambledmegg
 - 👀 I’m interested in becoming a software developer and/or data analyst.
 - 🌱 I’m currently learning how to write lines of code comfortably and navigation of Github.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on (TBD)
 - 📫 How to reach me: gmail
 
 <!---
